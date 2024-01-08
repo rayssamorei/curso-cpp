@@ -1,0 +1,12 @@
+Escreva um programa para o CS que leia um conjunto de notas de alunos contidas em
+cartões, calcule e imprima quantos alunos foram aprovados. Para passar de ano, o aluno
+deve ter nota maior ou igual a 60. O último cartão (flag) terá o valor -1.
+
+E1 : Escreva o valor 0 no escaninho E6
+E2 : Pegue um cartão e escreva seu valor no escaninho E5
+E3 : Se o valor do escaninho E5 for maior ou igual a 60, some mais um ao E6
+E4 : Se o valor do escaninho E5 for igual a -1, avance para o E7
+E5 :
+E6 :
+E7 : Imprima o valor de E6
+E8 : Pare
