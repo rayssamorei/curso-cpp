@@ -5,7 +5,8 @@ Crie um programa que exiba um menu para o usuário e realize diferentes ações 
 Calcular a área de um quadrado.
 Calcular a área de um círculo.
 Calcular a área de um triângulo.
-Sair do programa.*/
+Sair do programa.
+*/
 #include <iostream>
 #include <cmath>
 
