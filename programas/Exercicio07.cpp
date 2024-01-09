@@ -1,5 +1,5 @@
 //Exercicio de fixação sobre if e else em c++.
-/*Escreva um programa que solicita ao usuário para inserir um número e verifica se o número é positivo, negativo ou zero.*/
+//Escreva um programa que solicita ao usuário para inserir um número e verifica se o número é positivo, negativo ou zero.
 #include <iostream>
 using namespace std;
 
