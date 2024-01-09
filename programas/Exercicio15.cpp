@@ -1,4 +1,4 @@
-//Aula 15 - exercicio 02
+//Aula 16 - exercicio 02
 /*
 Crie um programa que solicita ao usuário um número inteiro positivo N. Em seguida, use um loop do-while para exibir uma contagem regressiva a partir de N até 1.
 */
