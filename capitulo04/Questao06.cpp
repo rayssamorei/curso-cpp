@@ -47,6 +47,9 @@ int main(){
         cout << "Raiz cubica do segundo numero: " << res2;
         break;
     default:
+        if(op == 0 || op > 3){
+            cout << "Erro!";
+        }
         break;
     }
     
