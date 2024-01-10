@@ -14,9 +14,9 @@ int main() {
 
     if((n1 >= n2) && (n1 >= n3)){
         cout << "O maior e: " << n1;
-    }else if((n2 >= n1) && (n2 >= n3)){
+    } else if ((n2 >= n1) && (n2 >= n3)){
         cout << "O maior e: " << n2;
-    }else if((n3 >= n2) && (n3 >= n1)){
+    } else {
         cout << "O maior e: " << n3;
     }
 
