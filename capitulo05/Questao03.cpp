@@ -17,7 +17,6 @@ int main() {
     int primFaixa = 0, segFaixa = 0, terFaixa = 0, quartFaixa = 0, quinFaixa = 0, idade = 0;
     double porcPrimFaixa = 0, porcQuinFaixa = 0;
 
-
     for(int i = 0; i < 8; i++){
         cout << "Informe a idade da " << i+1 << " pessoa: ";
         cin >> idade;
