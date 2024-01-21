@@ -40,5 +40,5 @@ int main() {
             cout <<"\nNome: " << nomes[i] << "\nCodigo: " << cod[i] << "\nPreco: " << price[i] << "\nAumento: " << price[i]*newPrice << "\n\n";
         }
     }
-
+    return 0;
 }
