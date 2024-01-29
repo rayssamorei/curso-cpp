@@ -6,7 +6,7 @@ divisível pelo segundo número. Caso contrário, deverá retornar o próximo di
 using namespace std;
 
 int divisor(int n1,int n2){
-    
+
     if(n1 % n2 == 0){
         return 0;
     }
@@ -20,6 +20,7 @@ int divisor(int n1,int n2){
             aux++;
         }
     }
+    return 0;
 }
 int main() {
     int n1 = 0, n2 = 0;
